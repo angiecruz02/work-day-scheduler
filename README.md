@@ -18,3 +18,4 @@ This project was modified by Dora Angelica Cruz Perez as part of UTSA coding boo
 <img width="827" alt="Screen Shot 2023-07-06 at 1 54 43 PM" src="https://github.com/angiecruz02/code-quiz/assets/33271291/ebb5d4e0-deaa-4722-a533-73f7aec78083">
 
 ## Link to deployed application 
+https://angiecruz02.github.io/work-day-scheduler/
